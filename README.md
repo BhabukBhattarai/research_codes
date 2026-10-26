@@ -74,7 +74,7 @@ research_codes/
 ├── flood_point_detection/
 │   ├── food_point_detection.js
 │   └── README.md
-├── taylor-diagram/
+├── taylor_diagram/
 │   ├── taylor_diagram_hbv_hechms.py
 │   └── README.md
 └── future_lulc_prediction/
